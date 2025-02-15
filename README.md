@@ -6,12 +6,12 @@ The script can identify and extract:
 
 - Email addresses
 - URLs
-- Phone numbers
+- Phone numbers (Ugandan & Kenyan)
 - Credit card numbers
 - Hashtags
-- Time (12-hour & 24-hour format)
+- Time (24-hour format)
 - HTML tags
-- Currency amounts
+- Currency (UGX)
 
 ## Requirements
 - Python 3.x
